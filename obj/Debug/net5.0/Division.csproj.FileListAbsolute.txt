@@ -1,0 +1,16 @@
+/home/williams/Desktop/Erbaver/Division/bin/Debug/net5.0/Division
+/home/williams/Desktop/Erbaver/Division/bin/Debug/net5.0/Division.deps.json
+/home/williams/Desktop/Erbaver/Division/bin/Debug/net5.0/Division.runtimeconfig.json
+/home/williams/Desktop/Erbaver/Division/bin/Debug/net5.0/Division.runtimeconfig.dev.json
+/home/williams/Desktop/Erbaver/Division/bin/Debug/net5.0/Division.dll
+/home/williams/Desktop/Erbaver/Division/bin/Debug/net5.0/ref/Division.dll
+/home/williams/Desktop/Erbaver/Division/bin/Debug/net5.0/Division.pdb
+/home/williams/Desktop/Erbaver/Division/obj/Debug/net5.0/Division.csproj.AssemblyReference.cache
+/home/williams/Desktop/Erbaver/Division/obj/Debug/net5.0/Division.GeneratedMSBuildEditorConfig.editorconfig
+/home/williams/Desktop/Erbaver/Division/obj/Debug/net5.0/Division.AssemblyInfoInputs.cache
+/home/williams/Desktop/Erbaver/Division/obj/Debug/net5.0/Division.AssemblyInfo.cs
+/home/williams/Desktop/Erbaver/Division/obj/Debug/net5.0/Division.csproj.CoreCompileInputs.cache
+/home/williams/Desktop/Erbaver/Division/obj/Debug/net5.0/Division.dll
+/home/williams/Desktop/Erbaver/Division/obj/Debug/net5.0/ref/Division.dll
+/home/williams/Desktop/Erbaver/Division/obj/Debug/net5.0/Division.pdb
+/home/williams/Desktop/Erbaver/Division/obj/Debug/net5.0/Division.genruntimeconfig.cache
